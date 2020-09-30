@@ -29,6 +29,7 @@
 ### 2.Актуальность подсказок
  ### Примеры готовых приложений
  Внизу представленно приложение на Android "Личный финансовый менеджер"
+ 
  ![screenshot of sample](https://f.sravni.ru/cms/Material/61.JPG)
  ![screenshot of sample](https://lh3.googleusercontent.com/gF1Dl0jI-dhdoJ5_cAwpJzzq79jW0KwMO1ZJiVTwsTg5vYJkOjmDEaPF66ooF5CeHoE)
 
