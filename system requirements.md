@@ -24,6 +24,6 @@
  ### Примеры готовых приложений
  Ниже представленно приложение на Android "Личный финансовый менеджер"
  
- ![screenshot of sample](file:///C:/Users/MiloshTen/Desktop/Mokup1.png)
+ ![screenshot of sample](https://github.com/MiloshTen/finance-manager/blob/master/Images/Mokup1.png)
  ![screenshot of sample](https://lh3.googleusercontent.com/gF1Dl0jI-dhdoJ5_cAwpJzzq79jW0KwMO1ZJiVTwsTg5vYJkOjmDEaPF66ooF5CeHoE)
 
